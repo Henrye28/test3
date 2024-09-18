@@ -30,3 +30,5 @@ Running embedded Test
 - run: mvn clean verify
 - check test result
 
+
+- TEST MERGE 1
