@@ -33,3 +33,4 @@ Running embedded Test
 
 - TEST MERGE 1
 - TEST MERGE 2
+- TEST REBASE 1
